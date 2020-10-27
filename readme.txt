@@ -1,0 +1,1 @@
+安裝的話 必須要有 count.txt  跟  total.txt 音樂檔
